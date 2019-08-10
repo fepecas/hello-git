@@ -1,7 +1,7 @@
 # hello-git
 Guys, come here to create your first branch, perform your first commit, push and pull request.
 
-## first: solve at least one algorithm
+## 1) solve at least one algorithm
 
 _Let's use your preferred language in an online editor (e.g. playcode.io)_
 
@@ -17,23 +17,27 @@ _Let's use your preferred language in an online editor (e.g. playcode.io)_
 9. Given three integers, evaluate if "y" is greater than "x", and "z" is greater than "y".
 
 The suggested file name looks like this:
+
 **{your.name.surname}_algo##.ext**
 
 A simple example is:
+
 _andres.felipe.pena_algo01.js_
 
-## second: name a small team (up to 5 members) and branch from master
+## 2) name a small team (up to 5 members) and branch from master
 
 The suggested branch name is lower case and uses hyphen to separate words:
+
 **your-organization/team-name**
 
 A simple branch name could be:
+
 _sena-tolima/los-lechoneros_
 
-## third: add your files, commit and push
+## 3) add your files, commit and push
 
 From one or several computers, push these files to your team branch.
 
-## fourth (and last): create your first PR
+## 4) (and last): create your first PR
 
 Once all the teams have new files in their branches, each of them must create a PR to bring those files to master branch. Let's try reviewing some of them by adding comments before merging.
