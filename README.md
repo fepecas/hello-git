@@ -1,7 +1,7 @@
 # hello-git
 Guys, come here to create your first branch, perform your first commit, push and pull request.
 
-## 1) solve at least one algorithm
+## 1) solve at least one algorytm
 
 _Let's use your preferred language in an online editor (e.g. playcode.io)_
 
